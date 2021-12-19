@@ -1,0 +1,30 @@
+.table{
+    border: 1px blacks;
+    
+   
+}
+th{
+    border: 1px solid black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.head{
+    background-color: black;
+    color: white;
+}
+tr:hover{
+background-color: chartreuse;
+}
+P{
+    color: darkorange;
+}
+tbody{
+    background-color: gray;
+}
